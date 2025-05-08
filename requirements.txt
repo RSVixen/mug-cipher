@@ -1,0 +1,8 @@
+cryptography
+argon2-cffi
+click
+rich
+pytest
+black
+mypy
+pyinstaller
